@@ -3,8 +3,6 @@ Line-Animation
 
 ## website => [Line-Animation](https://rxchit.github.io/line-anim-js/)
 
-outputs
+output
 
-[![]](pic/01.png)
-
-[![]](pic/01.mp4)
+<img src="pic/01.png" alt="drawing" width="512"/>
